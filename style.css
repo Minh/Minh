@@ -1,0 +1,36 @@
+
+
+body{
+    margin: 0 80px;
+    height: 1000px;
+    background-color: #9cf;
+}
+
+.container{
+    display:flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+}
+
+.items{
+    width: 310px;
+    height: 280px;
+    margin: 40px 40px;
+    text-align:center;
+    background-color:white;
+}
+
+img{
+    width: 300px;
+    height: 260px;
+}
+
+h2{
+    background-color:black;
+    color:white;
+}
+
+span{
+    background-color: black;
+    color:white;
+}
